@@ -8,7 +8,7 @@ The robot spins if sonar does not detect anything
 and then goes full speed forward if sonar does detect
 an object.
 IR sensors are used on the front and back of robot 
-to detect outer white edge and perform evasive maneuvers.
+to detect outer white edge and perform evasive maneuvers
 
 
 */
